@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="gap">1dp</dimen>
+
+
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="gram">15sp</dimen>
+</resources>
